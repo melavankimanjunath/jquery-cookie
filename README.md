@@ -3,7 +3,7 @@
 A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 
 **If you're viewing this at https://github.com/carhartl/jquery-cookie, you're reading the documentation for the master branch.
-[View documentation for the latest release (1.4.1).](https://github.com/carhartl/jquery-cookie/tree/v1.4.1)**
+[View documentation for the latest release (1.4.1).](https://github.com/melavankimanjunath/jquery-cookie/)**
 
 ## Build Status Matrix
 
@@ -153,4 +153,4 @@ Check out the [Contributing Guidelines](CONTRIBUTING.md)
 
 ## Authors
 
-[Klaus Hartl](https://github.com/carhartl)
+[Manjunath Melavanki](https://github.com/melavankimanjunath)
